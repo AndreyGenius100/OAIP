@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\latsg\\source\\repos\\lab18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8788F8-E3C8-45BD-ADEF-CEA745D24AC0}|Varaiant2\\Varaiant2.vcxproj|C:\\Users\\latsg\\source\\repos\\lab18\\Varaiant2\\Varaiant2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A8788F8-E3C8-45BD-ADEF-CEA745D24AC0}|Varaiant2\\Varaiant2.vcxproj|solutionrelative:Varaiant2\\Varaiant2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A82A1376-ADAD-4B46-A33E-12CC02EB82DA}|Variant\\Variant.vcxproj|C:\\Users\\latsg\\source\\repos\\lab18\\Variant\\Variant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A82A1376-ADAD-4B46-A33E-12CC02EB82DA}|Variant\\Variant.vcxproj|solutionrelative:Variant\\Variant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CBABD0-3CC1-46E7-8C4E-E415E4CE78ED}|3\\3.vcxproj|C:\\Users\\latsg\\source\\repos\\lab18\\3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65CBABD0-3CC1-46E7-8C4E-E415E4CE78ED}|3\\3.vcxproj|solutionrelative:3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Varaiant2.cpp",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab18\\Varaiant2\\Varaiant2.cpp",
+              "RelativeDocumentMoniker": "Varaiant2\\Varaiant2.cpp",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab18\\Varaiant2\\Varaiant2.cpp*",
+              "RelativeToolTip": "Varaiant2\\Varaiant2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T19:02:36.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variant.cpp",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab18\\Variant\\Variant.cpp",
+              "RelativeDocumentMoniker": "Variant\\Variant.cpp",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab18\\Variant\\Variant.cpp",
+              "RelativeToolTip": "Variant\\Variant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T18:58:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3.cpp",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab18\\3\\3.cpp",
+              "RelativeDocumentMoniker": "3\\3.cpp",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab18\\3\\3.cpp",
+              "RelativeToolTip": "3\\3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T18:53:16.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
