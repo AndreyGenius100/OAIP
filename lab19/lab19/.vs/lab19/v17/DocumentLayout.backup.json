@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\latsg\\source\\repos\\lab19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79939DA-63CF-4DB5-BCF1-5EA73304017D}|Variant2\\Variant2.vcxproj|C:\\Users\\latsg\\source\\repos\\lab19\\Variant2\\Variant2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B79939DA-63CF-4DB5-BCF1-5EA73304017D}|Variant2\\Variant2.vcxproj|solutionrelative:Variant2\\Variant2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B66C89-35F3-4F24-B1E8-8F69EC200248}|Variant1\\Variant1.vcxproj|C:\\Users\\latsg\\source\\repos\\lab19\\Variant1\\Variant1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C1B66C89-35F3-4F24-B1E8-8F69EC200248}|Variant1\\Variant1.vcxproj|solutionrelative:Variant1\\Variant1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C6D629-F5D1-417B-92B5-DD1061CE1A4F}|4\\4.vcxproj|C:\\Users\\latsg\\source\\repos\\lab19\\4\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93C6D629-F5D1-417B-92B5-DD1061CE1A4F}|4\\4.vcxproj|solutionrelative:4\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B5AF07-F99B-4A8F-85A2-7246598C92F2}|3\\3.vcxproj|C:\\Users\\latsg\\source\\repos\\lab19\\3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51B5AF07-F99B-4A8F-85A2-7246598C92F2}|3\\3.vcxproj|solutionrelative:3\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99E18B4-53AE-40E2-BCED-C17461D20D50}|zadanie2\\zadanie2.vcxproj|C:\\Users\\latsg\\source\\repos\\lab19\\zadanie2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D99E18B4-53AE-40E2-BCED-C17461D20D50}|zadanie2\\zadanie2.vcxproj|solutionrelative:zadanie2\\2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF317063-0629-4EAB-9440-5E9C113FC0DA}|lab19\\lab19.vcxproj|C:\\Users\\latsg\\source\\repos\\lab19\\lab19\\one.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF317063-0629-4EAB-9440-5E9C113FC0DA}|lab19\\lab19.vcxproj|solutionrelative:lab19\\one.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Variant2.c",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab19\\Variant2\\Variant2.c",
+              "RelativeDocumentMoniker": "Variant2\\Variant2.c",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab19\\Variant2\\Variant2.c*",
+              "RelativeToolTip": "Variant2\\Variant2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-03T20:38:36.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variant1.c",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab19\\Variant1\\Variant1.c",
+              "RelativeDocumentMoniker": "Variant1\\Variant1.c",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab19\\Variant1\\Variant1.c",
+              "RelativeToolTip": "Variant1\\Variant1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-03T20:30:19.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.cpp",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab19\\4\\4.cpp",
+              "RelativeDocumentMoniker": "4\\4.cpp",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab19\\4\\4.cpp",
+              "RelativeToolTip": "4\\4.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T20:17:57.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.cpp",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab19\\3\\3.cpp",
+              "RelativeDocumentMoniker": "3\\3.cpp",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab19\\3\\3.cpp",
+              "RelativeToolTip": "3\\3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T20:11:20.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2.c",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab19\\zadanie2\\2.c",
+              "RelativeDocumentMoniker": "zadanie2\\2.c",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab19\\zadanie2\\2.c",
+              "RelativeToolTip": "zadanie2\\2.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-03T19:24:10.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "one.c",
+              "DocumentMoniker": "C:\\Users\\latsg\\source\\repos\\lab19\\lab19\\one.c",
+              "RelativeDocumentMoniker": "lab19\\one.c",
+              "ToolTip": "C:\\Users\\latsg\\source\\repos\\lab19\\lab19\\one.c",
+              "RelativeToolTip": "lab19\\one.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-03T19:16:32.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
